@@ -1,2 +1,2 @@
 # voice-controlled-light
-The light is controlled hrough voice via bluetooth
+The light is controlled through voice via bluetooth
